@@ -7,7 +7,7 @@ So far the following experiments have been implemented:
 * Training a DNN to categorize philosophical questions
 * Training an LSTM to categorize philosophical questions
 * Using a pretrained embedding such as BERT or ELMO to improve accruacy.
-* Using GCP's NLP AutoMl service to see if it provides better accuracy than custom built models
+* Using GCP's NLP AutoML service to see if it provides better accuracy than custom built models
 
 ## Running the notebook
 
